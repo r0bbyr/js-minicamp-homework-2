@@ -1,0 +1,17 @@
+Feynman Writing Prompts - Write out explanations of the following concepts like you are explaining it to a 12 year old. Doing this will help you quickly discover any holes in your understanding. Ask your questions on Slack.
+
+    for loop
+    && || !
+    Array
+    git
+    GitHub
+
+for loop: a for loop is a scripting loop that allows you to do a task over and over again for the amount of time given in the loop (until the conditions are met).
+
+&& || !: && means and which conditions on both sides of the && need to be true for the code to run.  || is OR which means either or conditions on both sides of the || need to be true.  ! is the not statement which means that the condition on the other side of the ! needs to be false.
+
+Array: thought as a storage container for different values.  
+
+git: Open Source software that is used for version control. useful in collabration environments as it keeps changes from stepping over each other.
+
+GitHub: Cloud service for version control and collabration.
